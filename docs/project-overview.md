@@ -43,7 +43,7 @@ Proactive Project Handoff задаёт структурированную мет
 
 ## Краткие правила v0.1.2
 
-В релизе плагина v0.1.2 добавлен companion Skill `proactive-handoff-rules` с восемью краткими обязательными правилами; те же правила включены в plugin `defaultPrompt`. Подробный Skill `proactive-handoff` сохранён без сокращения. Краткая памятка дополняет подробную методику и не заменяет её.
+В пакет плагина v0.1.2 добавлен companion Skill `proactive-handoff-rules` с восемью краткими обязательными правилами; те же правила включены в plugin `defaultPrompt`. Подробный Skill `proactive-handoff` сохранён без сокращения. В текущем runtime-списке Skills companion Skill не обнаружен, поэтому его отдельная доступность/активация пока NOT_VERIFIED. Краткие правила также присутствуют в `defaultPrompt`.
 
 ## Принципиальные границы
 
