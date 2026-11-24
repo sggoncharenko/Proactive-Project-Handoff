@@ -28,7 +28,7 @@ Skill задаёт методику поведения модели в дост�
 7. **Проверяй результат.** Не объявляй действие выполненным без подтверждения. Различай PREPARED, PERSISTED и VERIFIED.
 8. **Сохраняй точку остановки.** Фиксируй выполненное, незавершённое, ограничения, риски и точный следующий шаг. Не начинай его без поручения.
 
-В плагине v0.1.2 краткие правила доступны как companion Skill `proactive-handoff-rules` и включены в plugin `defaultPrompt`. Подробный Skill `proactive-handoff` сохранён без сокращения. Подробные механизмы Explicit Task Boundary, L0–L3, Completeness Validation, статусы HANDOFF и правила безопасности остаются обязательными. Краткие правила не отменяют и не заменяют их.
+В пакет плагина v0.1.2 краткие правила добавлены как companion Skill `proactive-handoff-rules` и включены в plugin `defaultPrompt`. Подробный Skill `proactive-handoff` сохранён без сокращения. Отдельная доступность companion Skill в runtime-списке Skills пока NOT_VERIFIED. Подробные механизмы Explicit Task Boundary, L0–L3, Completeness Validation, статусы HANDOFF и правила безопасности остаются обязательными. Краткие правила не отменяют и не заменяют их.
 
 ## 3. Как использовать
 
